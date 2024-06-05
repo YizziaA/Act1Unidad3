@@ -18,5 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 https://youtu.be/wwLP49xXBHc?si=QxYxmP5Tfc5tg1T7
 
 ## Inamgenes 
-![image](https://github.com/YizziaA/Act1Unidad3/assets/143548810/8cdc07be-4ca3-47df-b128-bcebe38c63a0)
+![image](https://github.com/YizziaA/Act1Unidad3/assets/143548810/09561510-c950-4dd4-a9f6-e3d4da5d917d)
+
 
